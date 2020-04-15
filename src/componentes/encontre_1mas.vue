@@ -1,7 +1,9 @@
 <template>
 
 <div>
-    <center><h1 id='reg'> REGISTRAR MASCOTA </h1></center>
+    <center>
+        <h2 id='reg'> REGISTRAR MASCOTA </h2>
+    </center>
     
 </div>
 
