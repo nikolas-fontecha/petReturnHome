@@ -1,7 +1,7 @@
 <template>
 
 <div>
-    <center><h1 id='reg'> MASCOTAS ENCONTRADAS </h1></center>
+    <center><h1 id='reg'> ME ENCONTRE ESTA MASCOTA</h1></center>
     
 </div>
 

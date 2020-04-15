@@ -2,7 +2,7 @@
 
 <div>
     <center>
-    <h1 id="titulo"> informacion mascotaencontrada </h1>
+    <h1 id="titulo"> INFORMACION DE MASCOTA ENCONTRADA </h1>
     
     </center>
 
@@ -17,7 +17,7 @@ export default {
 </script>
 <style scoped>
  #titulo{
-   background-color:rgb(6, 6, 68);
+   background-color:aqua;
    
 }
 </style>

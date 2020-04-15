@@ -1,7 +1,7 @@
 <template>
 
 <div>
-    <center><h1 id='reg'> PERDI MI MASCOTA </h1></center>
+    <center><h1 id='reg'> REGISTRAR MI MASCOTA PERDIDA</h1></center>
     
 </div>
 
