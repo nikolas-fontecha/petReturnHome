@@ -48,7 +48,7 @@ export default {};
   font-size: 30px;
   line-height: 36px;
   text-align: center;
-  border: 20px solid #f1f3f6;
+  border: 10px solid #f1f3f6;
 }
 
 #NU {
