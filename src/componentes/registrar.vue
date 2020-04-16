@@ -2,6 +2,11 @@
 
 <div>
     <center><h1 id='reg'> REGISTRAR</h1></center>
+    <input type="text"></input>
+     <b-button variant="danger">Button</b-button>
+     <b-form-input v-model="text" placeholder="Enter your name"></b-form-input>
+    <div class="mt-2">
+        <h1>Value: {{ text }}</h1></div>
     
 </div>
 
@@ -9,7 +14,25 @@
 
 <script>
 export default {
-    
+    created(){
+        setTimeout(
+      () => (this.text = "Fontecha"),
+      5000
+      )
+    },
+    data()
+    {
+        return{
+            text: "Quiroga",
+            ciudades: ""
+        }
+    },
+    methods(){
+
+    },
+    filters(){
+
+    },
 };
 </script>
 
@@ -28,5 +51,15 @@ export default {
     height: 241px;
     left: 50px;
     top: 117px;
+}
+@media (max-width: 1000px) {
+    #reg{
+    background-color: blue;
+    }
+}
+@media (max-width: 600px) {
+    #reg{
+    background-color: green;
+    }
 }
 </style>
