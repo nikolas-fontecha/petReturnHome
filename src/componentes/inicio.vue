@@ -40,7 +40,7 @@ export default {};
   width: 326px;
   height: 43px;
   left: 35px;
-  top: 60px;
+  top: 70px;
 
   font-family: erdana, sans-serif;
   font-style: italic;
