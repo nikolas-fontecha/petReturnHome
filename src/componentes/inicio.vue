@@ -45,7 +45,7 @@ export default {};
   font-family: erdana, sans-serif;
   font-style: italic;
   font-weight: bold;
-  font-size: 32px;
+  font-size: 30px;
   line-height: 36px;
   text-align: center;
   border: 20px solid #f1f3f6;
